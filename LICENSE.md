@@ -1,4 +1,4 @@
-#  
+#  Alfred for macOS vip Tool - voice notes and markdown support is the best Alfred for macOS tool, featuring voice notes and markdown support. Safe, efficient, and optimized for
 
 
 
